@@ -25,7 +25,7 @@ author:
   name             : "Isha Thapa"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
-  location         : "Stanford, CA"
+  location         : #"Stanford, CA"
   employer         : "Stanford University"
   uri              : # URL
   email            : #"none@example.org" 
