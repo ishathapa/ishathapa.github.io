@@ -7,5 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-#About Me
 I'm a PhD student in Management Science and Engineering (MS&E). I'm in the [Operations Research](https://or.stanford.edu/) track and part of [Systems Utilization Research for Stanford Medicine](https://surf.stanford.edu/). I grew up in Palo Alto, CA and completed my BA in statistics at UC Berkeley. 
