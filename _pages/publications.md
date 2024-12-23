@@ -12,9 +12,14 @@ author_profile: true
 ## Publications
 
 [**Association of Common Pediatric Surgeries with New Onset Chronic Pain in Patients 0-21 Years of Age in the United States.**](https://www-sciencedirect-com.stanford.idm.oclc.org/science/article/pii/S152659002200414X)  
-   *Authors:* Thapa, I., Ward, A., De Souza, B., Bambos, N., Anderson, T.   
-   *Published in:* Journal of Pain, 2023
+Thapa, I., Ward, A., De Souza, B., Bambos, N., Anderson, T.   
+*Journal of Pain*, 2023
 
-2. **Another Paper**  
-   *Authors:* You, Someone Else  
-   [Journal link](https://journalsite.com/issue12/paper456)
+[**Examining the Feasibility of Data-Driven Decision Support for the Virtual Crossmatch for Solid Organ Transplantation:  A Single Center Study.**](https://www.sciencedirect.com/science/article/pii/S2451959623000197)  
+Isha Thapa, Raymond Ye Lee, Marcelo Fernandez Vina, Bing Melody Zhang, Humera Ahmed, Andrew Y Shin, Nicholas Bambos, David N Rosenthal, David Scheinker
+*Transplantation Reports*, 2023
+
+[**Performance of a Commonly Used Pressure Injury Risk Model Under Changing Incidence.**](https://www.sciencedirect.com/science/article/pii/S1553725021002907?casa_token=R5_zuUsyaM8AAAAA:kBGa7d3flF0JnJY7Ht_eJtBQOhn0zs4lBLN9btFnSHRRRdf1rMmi2_VECcFpswL6GzhdYhTXkw)
+Scott Lanyon Fleming*, Kelly Heavner McFarlane*, Isha Thapa*, Andrea K. Johnson, Jenna F. Kruger, Andrew Y. Shin, David Scheinker, Lane F. Donnelly
+*The Joint Commission Journal on Quality and Patient Safety*, 2022
+
