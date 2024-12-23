@@ -11,6 +11,10 @@ Scaling equitable precision, whole-population pediatric diabetes care to a new c
 
 ## Publications
 
+[**Tiered Service Architecture for Remote Patient Monitoring**](https://arxiv.org/abs/2406.18000)
+Siddharth Chandak, Isha Thapa, Nicholas Bambos, David Scheinker
+*IEEE Healthcom*, 2024
+
 [**Association of Common Pediatric Surgeries with New Onset Chronic Pain in Patients 0-21 Years of Age in the United States.**](https://www-sciencedirect-com.stanford.idm.oclc.org/science/article/pii/S152659002200414X)  
 Isha Thapa, Andrew Ward, Beth De Souza, Nicholas Bambos, Thomas Anthony Anderson   
 *Journal of Pain*, 2023
