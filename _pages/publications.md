@@ -16,10 +16,10 @@ Isha Thapa, Andrew Ward, Beth De Souza, Nicholas Bambos, Thomas Anthony Anderson
 *Journal of Pain*, 2023
 
 [**Examining the Feasibility of Data-Driven Decision Support for the Virtual Crossmatch for Solid Organ Transplantation:  A Single Center Study.**](https://www.sciencedirect.com/science/article/pii/S2451959623000197)  
-Isha Thapa, Raymond Ye Lee, Marcelo Fernandez Vina, Bing Melody Zhang, Humera Ahmed, Andrew Y Shin, Nicholas Bambos, David N Rosenthal, David Scheinker
+Isha Thapa, Raymond Ye Lee, Marcelo Fernandez Vina, Bing Melody Zhang, Humera Ahmed, Andrew Y Shin, Nicholas Bambos, David N Rosenthal, David Scheinker\\
 *Transplantation Reports*, 2023
 
 [**Performance of a Commonly Used Pressure Injury Risk Model Under Changing Incidence.**](https://www.sciencedirect.com/science/article/pii/S1553725021002907?casa_token=R5_zuUsyaM8AAAAA:kBGa7d3flF0JnJY7Ht_eJtBQOhn0zs4lBLN9btFnSHRRRdf1rMmi2_VECcFpswL6GzhdYhTXkw)
-Scott Lanyon Fleming*, Kelly Heavner McFarlane*, Isha Thapa*, Andrea K. Johnson, Jenna F. Kruger, Andrew Y. Shin, David Scheinker, Lane F. Donnelly
+Scott Lanyon Fleming\*, Kelly Heavner McFarlane\*, Isha Thapa\*, Andrea K. Johnson, Jenna F. Kruger, Andrew Y. Shin, David Scheinker, Lane F. Donnelly \\
 *The Joint Commission Journal on Quality and Patient Safety*, 2022
 
