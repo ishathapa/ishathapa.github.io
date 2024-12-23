@@ -11,9 +11,9 @@ author_profile: true
 
 # Publications
 
-1. **Paper Title**  
-   *Authors:* You, Co-authors  
-   *Published in:* Journal Name, Year  
+**Association of Common Pediatric Surgeries with New Onset Chronic Pain in Patients 0-21 Years of Age in the United States.**  
+   *Authors:* Thapa, I., Ward, A., De Souza, B., Bambos, N., Anderson, T.   
+   *Published in:* Journal of Pain, Year  
    [View Paper](https://external-journal-website.org/paper123)
 
 2. **Another Paper**  
