@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Research"
-permalink: /publications/
+permalink: /research/
 author_profile: true
 ---
 ## Current Projects
