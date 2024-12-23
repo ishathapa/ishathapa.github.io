@@ -11,10 +11,9 @@ author_profile: true
 
 ## Publications
 
-**Association of Common Pediatric Surgeries with New Onset Chronic Pain in Patients 0-21 Years of Age in the United States.**  
+[**Association of Common Pediatric Surgeries with New Onset Chronic Pain in Patients 0-21 Years of Age in the United States.**](https://www-sciencedirect-com.stanford.idm.oclc.org/science/article/pii/S152659002200414X)  
    *Authors:* Thapa, I., Ward, A., De Souza, B., Bambos, N., Anderson, T.   
-   *Published in:* Journal of Pain, Year  
-   [View Paper](https://external-journal-website.org/paper123)
+   *Published in:* Journal of Pain, 2023
 
 2. **Another Paper**  
    *Authors:* You, Someone Else  
