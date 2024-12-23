@@ -12,7 +12,7 @@ author_profile: true
 ## Publications
 
 [**Association of Common Pediatric Surgeries with New Onset Chronic Pain in Patients 0-21 Years of Age in the United States.**](https://www-sciencedirect-com.stanford.idm.oclc.org/science/article/pii/S152659002200414X)  
-Thapa, I., Ward, A., De Souza, B., Bambos, N., Anderson, T.   
+Isha Thapa, Andrew Ward, Beth De Souza, Nicholas Bambos, Thomas Anthony Anderson   
 *Journal of Pain*, 2023
 
 [**Examining the Feasibility of Data-Driven Decision Support for the Virtual Crossmatch for Solid Organ Transplantation:  A Single Center Study.**](https://www.sciencedirect.com/science/article/pii/S2451959623000197)  
