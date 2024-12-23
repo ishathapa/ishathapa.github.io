@@ -5,11 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 ## Current Projects
-\begin{itemize}
-\item Estimating the effects of digital health interventions with resource constraints
-\item Evaluating the impact on patient outcomes of changes to algorithm-directed care models
-\item Scaling equitable precision, whole-population pediatric diabetes care to a new clinic with a different population
-\end{itemize}
+Estimating the effects of digital health interventions with resource constraints.
+Evaluating the impact on patient outcomes of changes to algorithm-directed care models.
+Scaling equitable precision, whole-population pediatric diabetes care to a new clinic with a different population.
 
 ## Publications
 
