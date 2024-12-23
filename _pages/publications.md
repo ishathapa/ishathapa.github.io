@@ -11,7 +11,7 @@ author_profile: true
 
 ## Publications
 
-[**Tiered Service Architecture for Remote Patient Monitoring**](https://arxiv.org/abs/2406.18000)
+[**Tiered Service Architecture for Remote Patient Monitoring**](https://arxiv.org/abs/2406.18000)\\
 Siddharth Chandak, Isha Thapa, Nicholas Bambos, David Scheinker
 *IEEE Healthcom*, 2024
 
